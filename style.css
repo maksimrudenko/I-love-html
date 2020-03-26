@@ -11,3 +11,8 @@ h1 {
         text-transform: uppercase;
         text-decoration: none;
         }
+        .figure {
+            float: right; margin-bottom: 0.5em;
+            margin-left: 2.53164557 %;/* 12px / 474px */
+            width: 48.7341772 %; /* 231px / 474px */
+            }
